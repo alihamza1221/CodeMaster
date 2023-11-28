@@ -1,0 +1,77 @@
+const CoursesDetails = {
+  WebDevelopment: [
+    { title: "HTML basic to advance", Duration: "Days" },
+    { title: "CSS basic to advance", Duration: "15 Days" },
+    { title: "JavaScript basic to advance", Duration: "30 Days" },
+    { title: "React basic to advance", Duration: "50 days" },
+    { title: "Node basic to advance", Duration: "20 Days" },
+    { title: "MongoDB basic to advance", Duration: "10 Days" },
+  ],
+  Python: [
+    { title: "Python basic to advance", Duration: "30 Days" },
+    { title: "Django basic to advance", Duration: "30 Days" },
+    { title: "Flask basic to advance", Duration: "30 Days" },
+    { title: "Data Science basic to advance", Duration: "30 Days" },
+    { title: "Machine Learning basic to advance", Duration: "30 Days" },
+    { title: "Deep Learning basic to advance", Duration: "30 Days" },
+  ],
+  Java: [
+    { title: "Java basic to advance", Duration: "30 Days" },
+    { title: "Spring basic to advance", Duration: "30 Days" },
+    { title: "Hibernate basic to advance", Duration: "30 Days" },
+    { title: "Data Structure basic to advance", Duration: "30 Days" },
+    { title: "Algorithm basic to advance", Duration: "30 Days" },
+    { title: "JavaFX basic to advance", Duration: "30 Days" },
+  ],
+
+  AndroidDevelopment: [
+    { title: "Android basic to advance", Duration: "30 Days" },
+    { title: "Kotlin basic to advance", Duration: "30 Days" },
+    { title: "Flutter basic to advance", Duration: "30 Days" },
+    { title: "React Native basic to advance", Duration: "30 Days" },
+    { title: "Android Studio basic to advance", Duration: "30 Days" },
+    { title: "Android App Development basic to advance", Duration: "30 Days" },
+  ],
+  IosDevelopment: [
+    { title: "Swift basic to advance", Duration: "30 Days" },
+    { title: "iOS basic to advance", Duration: "30 Days" },
+    { title: "iOS App Development basic to advance", Duration: "30 Days" },
+    { title: "Xcode basic to advance", Duration: "30 Days" },
+    { title: "Cocoa Touch basic to advance", Duration: "30 Days" },
+    { title: "Objective-C basic to advance", Duration: "30 Days" },
+  ],
+  GameDevelopment: [
+    { title: "Unity basic to advance", Duration: "30 Days" },
+    { title: "C# basic to advance", Duration: "30 Days" },
+    { title: "C++ basic to advance", Duration: "30 Days" },
+    { title: "Unreal Engine basic to advance", Duration: "30 Days" },
+    { title: "Game Development basic to advance", Duration: "30 Days" },
+    { title: "Game Design basic to advance", Duration: "30 Days" },
+  ],
+  DataScience: [
+    { title: "Python basic to advance", Duration: "30 Days" },
+    { title: "Machine Learning basic to advance", Duration: "30 Days" },
+    { title: "Deep Learning basic to advance", Duration: "30 Days" },
+    { title: "Data Analysis basic to advance", Duration: "30 Days" },
+    { title: "Data Visualization basic to advance", Duration: "30 Days" },
+    { title: "Data Mining basic to advance", Duration: "30 Days" },
+  ],
+
+  MachineLearning: [
+    { title: "Python basic to advance", Duration: "30 Days" },
+    { title: "Machine Learning basic to advance", Duration: "30 Days" },
+    { title: "Deep Learning basic to advance", Duration: "30 Days" },
+    { title: "Data Analysis basic to advance", Duration: "30 Days" },
+    { title: "Data Visualization basic to advance", Duration: "30 Days" },
+    { title: "Data Mining basic to advance", Duration: "30 Days" },
+  ],
+  ArtificialIntelligence: [
+    { title: "Python basic to advance", Duration: "30 Days" },
+    { title: "Machine Learning basic to advance", Duration: "30 Days" },
+    { title: "Deep Learning basic to advance", Duration: "30 Days" },
+    { title: "Data Analysis basic to advance", Duration: "30 Days" },
+    { title: "Data Visualization basic to advance", Duration: "30 Days" },
+    { title: "Data Mining basic to advance", Duration: "30 Days" },
+  ],
+};
+export default CoursesDetails;

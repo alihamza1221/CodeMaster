@@ -1,0 +1,92 @@
+.navbar{
+    display: flex;
+    overflow: hidden;
+    background-color: black;
+    top: 0;
+    z-index: 1;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    display: flex;
+    color: #f2f2f2df;
+    padding: 14px 16px;
+    margin: 0 auto;
+    width: 80%;
+    position: sticky;
+    justify-content: space-between;
+}
+.search-topic{
+    display: flex;
+}
+.search-topic input[type = "text"]{
+    color: #141313;
+    font-size: large;
+    padding: 1rem;
+    border: none;
+    background: white;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+}
+.search-topic input[type="text"]::placeholder {
+    color: #c6c6c6;
+  }
+.search-topic button{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    border: none;
+    background: white;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    padding: 0 7px;
+}
+.nav-items{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    gap: 1rem;
+    align-items: center;
+    margin: 2rem auto;
+    height: 3rem;
+}
+    
+.nav-items > li > a{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.861);
+    
+    transition: all 0.3s ease;
+    border-radius: 30px;
+    padding: 1rem 1.3rem;
+    background-color: #5942e9;
+}
+.nav-items > li{
+    list-style: none;
+}
+.nav-items > li:hover > a{
+    display: inline-block;
+    color: white;
+    transform: translateY(-3px);
+}
+.nav-items > li > a:active {
+    color: rgba(0, 0, 0, 0.842);
+  }
+  @media screen and (max-width:800px) {
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 0.7rem;
+        width: 100%;
+    }
+    .nav-items > li > a{
+        font-size:medium;
+        font-weight: 500;
+        padding: 0.8rem 1rem;
+        background-color: var(--blue-optimized);
+    }
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --blue-optimized :#5942e9; 
+    --black-color: #141313;
+    --secondary-gray-color: #f5f6f7;
+    --global-Font: 'Roboto', sans-serif;
+}
