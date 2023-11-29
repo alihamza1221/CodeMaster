@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/alihamza1221/CodeMaster/static/css/main.565da686.css",
-    "main.js": "/alihamza1221/CodeMaster/static/js/main.f93c2c3a.js",
-    "static/media/outline-video-game-development-on-computer.svg": "/alihamza1221/CodeMaster/static/media/outline-video-game-development-on-computer.0fe4e47be5d0486d261cc4d92e1e4098.svg",
-    "static/media/boba-software-developer-coding-with-two-monitors.svg": "/alihamza1221/CodeMaster/static/media/boba-software-developer-coding-with-two-monitors.abc932b697fadc2cda1178d99b72393c.svg",
-    "static/media/social-vr-glasses-for-virtual-content.svg": "/alihamza1221/CodeMaster/static/media/social-vr-glasses-for-virtual-content.b333fe2fcd4b1ddf4cea7b74032dda7e.svg",
-    "static/media/pablita-white-arrow.svg": "/alihamza1221/CodeMaster/static/media/pablita-white-arrow.ca1702e52f622ee17abdd18877d4b79f.svg",
-    "static/media/icons8-macbook-cards.svg": "/alihamza1221/CodeMaster/static/media/icons8-macbook-cards.83109445165d597f6ada9a137066b363.svg",
-    "static/media/icons8-search.svg": "/alihamza1221/CodeMaster/static/media/icons8-search.aa58904ba67757220d24545b21a52e61.svg",
-    "index.html": "/alihamza1221/CodeMaster/index.html",
-    "static/media/icons8-dropdown.svg": "/alihamza1221/CodeMaster/static/media/icons8-dropdown.a5efe3b1a3174d23346d4b9789b5d3e7.svg",
-    "main.565da686.css.map": "/alihamza1221/CodeMaster/static/css/main.565da686.css.map",
-    "main.f93c2c3a.js.map": "/alihamza1221/CodeMaster/static/js/main.f93c2c3a.js.map"
+    "main.css": "/alihamza1221/CodeMaster/tree/gh-pages/static/css/main.565da686.css",
+    "main.js": "/alihamza1221/CodeMaster/tree/gh-pages/static/js/main.346e7800.js",
+    "static/media/outline-video-game-development-on-computer.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/outline-video-game-development-on-computer.0fe4e47be5d0486d261cc4d92e1e4098.svg",
+    "static/media/boba-software-developer-coding-with-two-monitors.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/boba-software-developer-coding-with-two-monitors.abc932b697fadc2cda1178d99b72393c.svg",
+    "static/media/social-vr-glasses-for-virtual-content.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/social-vr-glasses-for-virtual-content.b333fe2fcd4b1ddf4cea7b74032dda7e.svg",
+    "static/media/pablita-white-arrow.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/pablita-white-arrow.ca1702e52f622ee17abdd18877d4b79f.svg",
+    "static/media/icons8-macbook-cards.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/icons8-macbook-cards.83109445165d597f6ada9a137066b363.svg",
+    "static/media/icons8-search.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/icons8-search.aa58904ba67757220d24545b21a52e61.svg",
+    "index.html": "/alihamza1221/CodeMaster/tree/gh-pages/index.html",
+    "static/media/icons8-dropdown.svg": "/alihamza1221/CodeMaster/tree/gh-pages/static/media/icons8-dropdown.a5efe3b1a3174d23346d4b9789b5d3e7.svg",
+    "main.565da686.css.map": "/alihamza1221/CodeMaster/tree/gh-pages/static/css/main.565da686.css.map",
+    "main.346e7800.js.map": "/alihamza1221/CodeMaster/tree/gh-pages/static/js/main.346e7800.js.map"
   },
   "entrypoints": [
     "static/css/main.565da686.css",
-    "static/js/main.f93c2c3a.js"
+    "static/js/main.346e7800.js"
   ]
 }
